@@ -1,0 +1,22 @@
+{
+    "name": "cliento/app",
+    "description": "Client Management System",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Othmane Chiboub",
+            "email": "oth.chiboub@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6",
+        "monolog/monolog": "^3.10",
+        "bramus/router": "^1.6"
+    }
+}

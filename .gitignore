@@ -1,0 +1,4 @@
+.env
+/vendor/
+/public/uploads/clients/*
+!/public/uploads/clients/default.png
