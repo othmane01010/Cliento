@@ -166,7 +166,7 @@ docker run -p 8000:8000 cliento
 
 ## 👤 Auteur
 
-**Othmane** — Étudiant en informatique (filière IA), Université Cadi Ayyad
+**Othmane Chiboub** — Étudiant en informatique (filière IA), Université Cadi Ayyad
 [GitHub](https://github.com/othmane01010)
 
 ---
